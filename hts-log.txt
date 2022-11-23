@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Nov 2022 15:12:52 at https://watch--bein.blogspot.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://watch--bein.blogspot.com -O1 "C:\Users\DAMERGI\Downloads\watch bein" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:13:20	Error: 	"Not Found" (404) at link https://watch--bein.blogspot.com/owl.carousel/ajax-loader.gif (from https://watch--bein.blogspot.com/)
+15:13:26	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/cH1aRyPNqzA/hqdefault.jpg (from https://watch--bein.blogspot.com/p/bein.html)
+15:13:26	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/0Y-IRcUJi6o/hqdefault.jpg (from https://watch--bein.blogspot.com/p/beinnews.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 77 links scanned, 73 files written (2154069 bytes overall) [1241785 bytes received at 36523 bytes/sec], 1480161 bytes transferred using HTTP compression in 33 files, ratio 27%
+(3 errors, 0 warnings, 0 messages)
